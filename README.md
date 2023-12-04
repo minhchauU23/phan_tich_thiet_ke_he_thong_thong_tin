@@ -1,4 +1,4 @@
-##Phân tích thiết kế hệ thống thông tin
+## Phân tích thiết kế hệ thống thông tin
 - Hệ thống quản lý rạp chiếu phim
 ## 1. Chủ đề
     - Hệ thống quản lý rạp chiếu phim
